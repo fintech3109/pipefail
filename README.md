@@ -1,0 +1,2 @@
+# pipefail
+Texting Script
